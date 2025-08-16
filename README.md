@@ -29,8 +29,7 @@ It also supports **replay option** without restarting the program.
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-java.git
    cd tic-tac-toe-java
-````
-
+``
 2. Compile the program:
 
    ```bash
@@ -41,7 +40,7 @@ It also supports **replay option** without restarting the program.
 
    ```bash
    java TicTacToe
-   ```
+   ``
 
 ---
 
@@ -83,18 +82,3 @@ Do you want to play again? (y/n):
 * Add **Java Swing GUI** for a more interactive experience.
 * Highlight the winning line.
 
----
-
-## 👨‍💻 Author
-
-Developed by **\[Your Name]**
-Feel free to fork, suggest improvements, or use this as a learning project!
-
-```
-
----
-
-👉 You just need to replace **`your-username`** and **`Your Name`** with your actual GitHub username & name.  
-
-Do you also want me to write a **.gitignore file** for Java projects (so `.class` files don’t get pushed to GitHub)?
-```
